@@ -6,7 +6,10 @@ aprovados.forEach(function(nome, indice) {
 
 aprovados.forEach(nome => console.log(nome))
 
-for i<10 then i=i+1
-    console.log('novo')
+for (var i=0; i<10; i++) {
+    console.log('teste')
+}
+
+
 
 
